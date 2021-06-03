@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The loyal tories delight, or, A pill for fanaticks. Being a most pleasant and nevv song. To the tune of, Great York has been debar'd of late, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26309</idno><idno type="EEBO-CITATION">99888069</idno>
+  <idno type="VID">193135</idno>
+  <idno type="EEBO-PROQUEST">2248539275</idno>
+  
+            <idno type="STC">Wing L3376</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.9[911]</idno>
+            <idno type="STC">ESTC R228974</idno>
+            <idno type="PROQUEST">ocm99888069</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888069e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26309)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193135)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A6:1[537])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The loyal tories delight, or, A pill for fanaticks. Being a most pleasant and nevv song. To the tune of, Great York has been debar'd of late, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (music)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Shuter.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing CD-ROM, 1996.</note>
+                  <note>Verse: "Great York has been debar'd of late, from court by some accursed fate; but e're long we do not fear,"</note>
+                  <note>Printed in two columns.</note>
+                  <note>Imperfect: stained.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:193135:1"/>
+            <pb facs="tcp:193135:1"/>
+            <head>The Loyal Tories Delight, Or, A Pill for FANATICKS.</head>
+            <head type="sub">Being a most pleasant and nevv Song.</head>
+            <opener>To the Tune of, Great <hi>York</hi> has been debar'd of late, &amp;c,</opener>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <lg>
+               <l>GReat <hi>York</hi> has been debar'd of late,</l>
+               <l>from Court by some accursed Fate;</l>
+               <l>but e're long we do not fear,</l>
+               <l>
+                  <hi>VVe shall have him, have him here,</hi>
+               </l>
+               <l>
+                  <hi>VVe shall have him, have him here.</hi>
+               </l>
+            </lg>
+            <lg n="2">
+               <head>2</head>
+               <l>The Makers of the Plot we see,</l>
+               <l>By damn'd Old <hi>Tony</hi>'s treachery,</l>
+               <l>How they would have brought it about,</l>
+               <l>
+                  <hi>To have given great</hi> York <hi>the rout:</hi>
+               </l>
+               <l>
+                  <hi>To have given</hi> &amp;c.</l>
+            </lg>
+            <lg n="3">
+               <head>3</head>
+               <l>God preserve our gracious King,</l>
+               <l>And safe tydings to us bring,</l>
+               <l>Defend us from the <hi>sham black Box,</hi>
+               </l>
+               <l>
+                  <hi>And all damn'd</hi> Fanatick <hi>Plots,</hi>
+               </l>
+               <l>
+                  <hi>And all damn'd</hi> &amp;c.</l>
+            </lg>
+            <lg n="4">
+               <head>4</head>
+               <l>Here <hi>Charles</hi>'s Health I drink to thee,</l>
+               <l>And wish him all Prosperity;</l>
+               <l>God grant that he long time may Reign,</l>
+               <l>
+                  <hi>To bring us home great</hi> York <hi>again:</hi>
+               </l>
+               <l>
+                  <hi>to bring us home</hi> &amp;c.</l>
+            </lg>
+            <lg n="5">
+               <head>5</head>
+               <l>That he in spight of all his Foes,</l>
+               <l>Who Loyalty and Laws oppose,</l>
+               <l>May long remain in health and peace,</l>
+               <l>
+                  <hi>Whilst Plots and Plotters all shall cease:</hi>
+               </l>
+               <l>
+                  <hi>Whilst</hi> &amp;c.</l>
+            </lg>
+            <lg n="6">
+               <head>6</head>
+               <l>Let Whigs go down to <hi>Erebus,</hi>
+               </l>
+               <l>And not stay here to trouble us</l>
+               <l>With noisy Cant, and needless fear,</l>
+               <l>
+                  <hi>Of Ills to come they know not where.</hi>
+               </l>
+               <l>
+                  <hi>Of Ills to come</hi> &amp;c.</l>
+            </lg>
+            <lg n="7">
+               <head>7</head>
+               <l>When our Chief trouble they create,</l>
+               <l>For plain wee see what they'd be at:</l>
+               <l>Cou'd they but push great <hi>York</hi> once down,</l>
+               <l>
+                  <hi>They'd next attempt to snatch the Crown.</hi>
+               </l>
+               <l>
+                  <hi>they'd next attempt</hi> &amp;c.</l>
+            </lg>
+            <lg n="8">
+               <head>8</head>
+               <l>But Heaven preserve our gracious King,</l>
+               <l>May all good Subjects loudly sing;</l>
+               <l>And Royal <hi>James</hi> preserve likewise,</l>
+               <l>
+                  <hi>From such as do against him rise,</hi>
+               </l>
+               <l>
+                  <hi>From such as do</hi> &amp;c.</l>
+            </lg>
+            <lg n="9">
+               <head>(<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>)</head>
+               <l>Then come again fill round our Glass,</l>
+               <l>And Loyal Tories less it pass,</l>
+               <l>Fill up, fill up unto the Brim,</l>
+               <l>
+                  <hi>And let each Boule with Necture swim,</hi>
+               </l>
+               <l>
+                  <hi>And let each Boule</hi> &amp;c.</l>
+            </lg>
+            <lg n="10">
+               <head>10</head>
+               <l>Though <hi>Cloakmen</hi> that seem much precise</l>
+               <l>'Gainst Wine exclaim, with turn'd-up eyes;</l>
+               <l>Yet in a corner they'l be drunk,</l>
+               <l>
+                  <hi>With drinking Healths unto the</hi> RUMP,</l>
+               <l>
+                  <hi>With drinking</hi> &amp;c.</l>
+            </lg>
+            <lg n="11">
+               <head>11</head>
+               <l>In hopes that once more they shall tear</l>
+               <l>Both Church and State, which is their Prayer</l>
+               <l>But Heaven does still protect the Throne,</l>
+               <l>
+                  <hi>Whilst</hi> Tyburn <hi>for such Slaves does groan.</hi>
+               </l>
+               <l>
+                  <hi>Whilst</hi> Tyburn &amp;c.</l>
+            </lg>
+            <lg n="12">
+               <head>12</head>
+               <l>For now 'tis plain, most men abhor</l>
+               <l>What some so strongly voted for:</l>
+               <l>Great <hi>York</hi> in Favour does remain,</l>
+               <l>
+                  <hi>In spight of all the Whigish train.</hi>
+               </l>
+               <l>
+                  <hi>In spight</hi> &amp;c.</l>
+            </lg>
+            <lg n="13">
+               <head>13</head>
+               <l>And now the <hi>Old Cause</hi> goes to wrack,</l>
+               <l>Sedition Manger Cloath in black,</l>
+               <l>Do greatly dread the Triple Tree,</l>
+               <l>
+                  <hi>Whilst we rejoyce in Loyalty.</hi>
+               </l>
+               <l>
+                  <hi>Whilst we</hi> &amp;c.</l>
+            </lg>
+            <lg n="14">
+               <head>14</head>
+               <l>Then come let's take another Round,</l>
+               <l>And still in Loyalty abound,</l>
+               <l>And wish our King he long may Reign,</l>
+               <l>
+                  <hi>To bring us home great</hi> York <hi>again,</hi>
+               </l>
+               <l>
+                  <hi>To bring us home great</hi> York <hi>again.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON</hi> Printed for <hi>R. Shuter.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
